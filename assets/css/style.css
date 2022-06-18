@@ -88,9 +88,11 @@ fieldset {
     margin-top: -560px;
 }
 
-input[type=text] {
+input[type=text], select {
     border: 1px solid #333333;
     border-radius: 2px;
+    padding: 3px;
+    margin: 0;
 }
 
 input[type=text]:focus {
@@ -117,22 +119,15 @@ button {
     opacity: 0.6;
 }
 
-.join-us-container {
-    margin: 100px 500px 150px 150px;
+.box {
+    margin: 50px 500px 50px 150px;
     border-radius: 5px;
     background-color: rgba(68, 62, 62, 0.547);
     font-size: 130%;
     padding-top: 200px;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
     padding-left: 50px;
-    position: static;
 }
 
-.form-text {
-    margin-top: -140px;
-    margin-bottom: 50px;
-    position: relative;
-    
-}
 
 
