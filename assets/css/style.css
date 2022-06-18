@@ -39,6 +39,32 @@ h1, h2 {
     margin-right: 30px;
 }
 
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    color: #333333;
+    font-size: 150%;
+    margin: 5%;
+    padding: 2%;
+}
+
+footer p {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
 /* clan image */
 
 #clan-image {
@@ -70,3 +96,5 @@ h1, h2 {
     margin-bottom: 50px;
     position: relative;
 }
+
+
