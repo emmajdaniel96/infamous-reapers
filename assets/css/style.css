@@ -49,8 +49,24 @@ h1, h2 {
 
 /* Join Us Page */
 
+#submit {
+    padding: 7px 15px;
+    border-radius: 4px;
+    text-transform: uppercase;
+
+}
+
 .join-us-container {
+    margin: 100px 500px 150px 150px;
+    border: 2px solid #333333;
+    border-radius: 4px;
     font-size: 130%;
     padding-top: 200px;
-    padding-left: 350px;
+    padding-left: 50px;
+}
+
+.form-text {
+    margin-top: -140px;
+    margin-bottom: 50px;
+    position: relative;
 }
