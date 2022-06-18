@@ -67,34 +67,72 @@ footer p {
 
 /* clan image */
 
-#clan-image {
+#clan-main {
     height: 600px;
     width: 100%;
-    background: url('../images/destiny-gang.jpg') no-repeat center center;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/destiny-gang.jpg') no-repeat center;
+    background-size: 100%;
+    opacity: 0.8;
 }
 
 /* Join Us Page */
 
-#submit {
+fieldset {
+    margin-top: -560px;
+}
+
+input[type=text] {
+    border: 1px solid #333333;
+    border-radius: 2px;
+}
+
+input[type=text]:focus {
+    border: 3px solid #333333;
+}
+
+button {
     padding: 7px 15px;
     border-radius: 4px;
     text-transform: uppercase;
+}
 
+#join-us-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#join-us-background {
+    height: 600px;
+    width: 100%;
+    background: url('../images/sagiras-shell.jpeg') no-repeat center;
+    background-size: 100%;
+    opacity: 0.6;
 }
 
 .join-us-container {
     margin: 100px 500px 150px 150px;
-    border: 2px solid #333333;
-    border-radius: 4px;
+    border-radius: 5px;
+    background-color: rgba(68, 62, 62, 0.547);
     font-size: 130%;
     padding-top: 200px;
+    padding-bottom: 15px;
     padding-left: 50px;
+    position: static;
 }
 
 .form-text {
     margin-top: -140px;
     margin-bottom: 50px;
     position: relative;
+    
 }
 
 
