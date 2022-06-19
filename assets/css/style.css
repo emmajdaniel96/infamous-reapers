@@ -39,31 +39,6 @@ h1, h2 {
     margin-right: 30px;
 }
 
-/* footer */
-
-footer {
-    height: 150px;
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks > li {
-    display: inline;
-}
-
-.social-networks i {
-    color: #333333;
-    font-size: 150%;
-    margin: 1%;
-    padding: 10px 5px 0 5px;
-}
-
-footer h2 {
-    text-align: center;
-}
-
 /* clan image */
 
 #clan-main {
@@ -134,3 +109,27 @@ button {
 }
 
 
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    color: #333333;
+    font-size: 150%;
+    margin: 1%;
+    padding: 10px 5px 0 5px;
+}
+
+footer h2 {
+    text-align: center;
+}
