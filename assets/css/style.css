@@ -56,13 +56,12 @@ footer {
 .social-networks i {
     color: #333333;
     font-size: 150%;
-    margin: 5%;
-    padding: 2%;
+    margin: 1%;
+    padding: 10px 5px 0 5px;
 }
 
-footer p {
+footer h2 {
     text-align: center;
-    padding-bottom: 40px;
 }
 
 /* clan image */
@@ -120,7 +119,7 @@ button {
 }
 
 .box {
-    margin: 50px 500px 50px 150px;
+    margin: 50px 500px 180px 150px;
     border-radius: 5px;
     background-color: rgba(68, 62, 62, 0.547);
     font-size: 130%;
@@ -129,5 +128,9 @@ button {
     padding-left: 50px;
 }
 
+.form-text {
+    margin-top: -140px;
+    position: relative;
+}
 
 
