@@ -56,6 +56,34 @@ h1, h2 {
     opacity: 0.8;
 }
 
+/* Raid Schedule Page */
+
+.raids {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.raids div {
+    height: 225px;
+    width: 100%;
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.5);
+    float: left;
+    padding-top: 60px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+.raids #vog {
+    background: url('../images/vault-of-glass.jpeg') no-repeat center;
+    background-size: 100%;
+}
+
+
+
 /* Join Us Page */
 
 fieldset {
