@@ -82,6 +82,11 @@ h1, h2 {
     background-size: 100%;
 }
 
+.raids #deep-stone {
+    background: url('../images/deep-stone-crypt.jpeg') no-repeat center;
+    background-size: 100%;
+}
+
 
 
 /* Join Us Page */
