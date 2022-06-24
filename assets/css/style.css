@@ -56,6 +56,19 @@ h1, h2 {
     opacity: 0.8;
 }
 
+/* Clan Inroduction */
+
+#intro {
+    margin: 30px;
+    text-align: center;
+}
+
+#intro h2 {
+    margin-bottom: 30px;
+    font-weight: 350;
+    font-size: 2em;
+}
+
 /* Raid Schedule Page */
 
 .raids {
