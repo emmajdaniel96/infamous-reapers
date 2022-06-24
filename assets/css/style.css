@@ -11,6 +11,7 @@ body {
     color: #333333;
 }
 
+
 /* headings and logo */
 
 h1, h2 {
@@ -26,6 +27,7 @@ h1, h2 {
     margin-left: 20px;
 }
 
+
 /* navigation bar/ menu */
 
 #menu, #logo {
@@ -38,6 +40,7 @@ h1, h2 {
     list-style-type: none;
     margin-right: 30px;
 }
+
 
 /* clan image */
 
@@ -56,6 +59,7 @@ h1, h2 {
     opacity: 0.8;
 }
 
+
 /* Clan Inroduction */
 
 #intro {
@@ -63,11 +67,13 @@ h1, h2 {
     text-align: center;
 }
 
-#intro h2 {
-    margin-bottom: 30px;
+.heading {
+    margin: 30px;
     font-weight: 350;
     font-size: 2em;
+    text-align: center;
 }
+
 
 /* Benefits Section */
 
@@ -90,6 +96,10 @@ h1, h2 {
     margin-left: 27%;
     padding-top: 35px;
 }
+
+
+
+
 
 /* Raid Schedule Page */
 
