@@ -2,6 +2,7 @@
 
 # Table of contents
 1. [Introduction] (#Introduction)
+    1. [Requirements] 
 2. [UX] (#UX)
     1. [Target User Demographic] 
     (#Target-Demographic)
@@ -38,3 +39,4 @@ The target demographic for the site:
 - For casual gamers of 'Destiny' to understand the purpose of the clan and the what they do. 
 - To see a simple layout/ stucture to the site that is easily navigated to find relevant infor mation about the clan
 - To see relevant information on why this clan is best suited for them
+
