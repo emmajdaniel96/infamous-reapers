@@ -23,7 +23,7 @@ To build a responsive, static front-end website. This should present useful info
 The target demographic for the site:
 - 'Destiny' veterans
 - New comers to 'Destiny'
-- Gamers looking for a community within the game
+- Casual Gamers
 
 #### 'Destiny' Veterans Goals
 - For 'Destiny' Veterans, to find a community to play with.
@@ -31,7 +31,10 @@ The target demographic for the site:
 
 #### New comers to 'Destiny' Goals
 - For new comers to 'Destiny' to be able to understand what a clan is and its purpose.
-- To easily navigate through the site to understand, with little difficulty due too many steps to get from point A to point B.
 - To be able to find all relevant information to be found with little to no difficulty as a new comer to both the website and the game.
+- To be able to join the clan with little to no difficulty through simple navigation
 
-
+#### Casual Gamers of 'Destiny' Goals
+- For casual gamers of 'Destiny' to understand the purpose of the clan and the what they do. 
+- To see a simple layout/ stucture to the site that is easily navigated to find relevant infor mation about the clan
+- To see relevant information on why this clan is best suited for them
