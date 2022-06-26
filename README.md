@@ -21,7 +21,7 @@
 7. [Testing](#testing)
 8. [Deployment](#deployment)
 9. [Technologies Used](#technologies-used)
-10. [Credits & Acknowledgments](#credits-&-acknowledgments)
+10. [Credits & Acknowledgements](#credits-&-acknowledgements)
 
 
 ## Introduction
@@ -58,5 +58,32 @@ The target demographic for the site:
 - To see a simple layout/ stucture to the site that is easily navigated to find relevant infor mation about the clan
 - To see relevant information on why this clan is best suited for them
 
-### Development Plan
+## Development Plan
+
+### Strategy
+
 To build a site that 
+
+## Design
+
+### Structure
+### Skeleton
+### Colour Scheme
+### Typography
+### Media
+
+## Features
+
+### Design Features
+### Current Design Features
+### Future Design Features
+
+## Issues & Bugs
+
+## Testing
+
+## Deployment
+
+## Technologies Used
+
+## Credits & Acknowledgements
