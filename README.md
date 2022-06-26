@@ -1,11 +1,28 @@
-# Infamous Reapers
+# Infamous Reapers
 
 # Table of contents
-1. [Introduction] (#Introduction)
-    1. [Requirements] 
-2. [UX] (#UX)
-    1. [Target User Demographic] 
-    (#Target-Demographic)
+1. [Introduction](#Introduction)
+    - [Requirements](#Requirements)
+2. [UX](#UX)
+    - [Target User Demographic](#target-user-demographic)
+3. [Development Plan](#development-plan) 
+    - [Strategy](#strategy)
+4. [Design](#design)
+    - [Structure](#structure)
+    - [Skeleton](#skeleton)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Media](#media)
+5. [Features](#features)
+    - [Design Features](#design-features)
+    - [Current Features](#current-features)
+    - [Future Features](#future-features)
+6. [Issues & Bugs](#issues-&-bugs)
+7. [Testing](#testing)
+8. [Deployment](#deployment)
+9. [Technologies Used](#technologies-used)
+10. [Credits & Acknowledgments](#credits-&-acknowledgments)
+
 
 ## Introduction
 
@@ -26,17 +43,20 @@ The target demographic for the site:
 - New comers to 'Destiny'
 - Casual Gamers
 
-#### 'Destiny' Veterans Goals
+#### 1. 'Destiny' Veterans Goals
 - For 'Destiny' Veterans, to find a community to play with.
 - To easily navigate through the site to understand what the clan is about and their intentions 
+- Up to date content that is relevant to the current season updates
 
-#### New comers to 'Destiny' Goals
+#### 2. New comers to 'Destiny' Goals
 - For new comers to 'Destiny' to be able to understand what a clan is and its purpose.
-- To be able to find all relevant information to be found with little to no difficulty as a new comer to both the website and the game.
+- To be able to find all relevant information on the game and current season update to be found with little to no difficulty as a new comer to both the site and the game.
 - To be able to join the clan with little to no difficulty through simple navigation
 
-#### Casual Gamers of 'Destiny' Goals
+#### 3. Casual Gamers of 'Destiny' Goals
 - For casual gamers of 'Destiny' to understand the purpose of the clan and the what they do. 
 - To see a simple layout/ stucture to the site that is easily navigated to find relevant infor mation about the clan
 - To see relevant information on why this clan is best suited for them
 
+### Development Plan
+To build a site that 
