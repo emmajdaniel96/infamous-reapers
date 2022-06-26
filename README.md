@@ -37,46 +37,106 @@ To build a responsive, static front-end website. This should present useful info
 
 ## UX
 
-### Target User Demographic
+### Target User Demographic:
 The target demographic for the site:
 - 'Destiny' veterans
 - New comers to 'Destiny'
 - Casual Gamers
 
-#### 1. 'Destiny' Veterans Goals
+#### 1. 'Destiny' Veterans Goals:
 - For 'Destiny' Veterans, to find a community to play with.
 - To easily navigate through the site to understand what the clan is about and their intentions 
 - Up to date content that is relevant to the current season updates
 
-#### 2. New comers to 'Destiny' Goals
+#### 2. New comers to 'Destiny' Goals:
 - For new comers to 'Destiny' to be able to understand what a clan is and its purpose.
 - To be able to find all relevant information on the game and current season update to be found with little to no difficulty as a new comer to both the site and the game.
 - To be able to join the clan with little to no difficulty through simple navigation
 
-#### 3. Casual Gamers of 'Destiny' Goals
+#### 3. Casual Gamers of 'Destiny' Goals:
 - For casual gamers of 'Destiny' to understand the purpose of the clan and the what they do. 
 - To see a simple layout/ stucture to the site that is easily navigated to find relevant infor mation about the clan
 - To see relevant information on why this clan is best suited for them
 
 ## Development Plan
 
-### Strategy
+### Strategy:
 
-To build a site that 
+To build a site that achieves the users goals, the developer needs to incorporate most, if not all the aspects the user is looking for by making sure the site is true to the identity of the game as well as the clan itself. The stategy will incorporate the users needs/ goals as well as site objectives.
+
+**Users:**
+- New users
+- Current users
+- Avid Destiny 2 players
+- Beginners to Destiny 2
+
+**Target Demographic:**
+- From age 16 upwards
+- Gamers
+- Gamers that play Destiny 2
+
+**Psychographic:**
+- Lifestyle: 
+    - Casual gamers
+    - Avid/ Hardcore gamers
+- Social Status:
+    - Ambivert
+    - Introvert
+    - Extrovert
+- Values:
+    - Equality
+    - Community 
+    - Respect
+
+
+The site needs to provide the following to the user:
+- Information on the clan
+- Type of clan, whether it be competitive or casual
+- Up to date information on the current season of Destiny 2
+- Scheduling information 
+- How to get involved
+- Ways of keeping connected 
+
+The site needs to provide the following to the manager:
+- Collect user entries to join the clan
 
 ## Design
 
-### Structure
-### Skeleton
-### Colour Scheme
-### Typography
-### Media
+### Structure:
+
+In order to create the website, a site map has been constructed on the basis of a the basic structure to a website. This shows how the user will navigate through the site with ease and with very little to no difficulty:
+
+![Site Map](assets/images/Site%20Map.png)
+
+### Template:
+
+In order to create the main template (Wireframes) of the site, the appearance and aesthetics of the site had to be thought out whilst giving the user a positive experience alongside simple navigation.
+
+[Wireframes image](assets/images/)
+
+
+### Colour Scheme:
+
+The colour scheme inspired by the the main image that from Destiny 2:
+![Destiny Image](assets/images/destiny-gang.jpg)
+
+Colour balance as well as colour theory was considered from the image itself also.
+
+(add imagae of colour scheme)
+
+### Typography:
+
+The main font used for the site is [Kanit](https://fonts.google.com/?query=kanit) and the back up font applied will be Sans-Serif should there be any issue with the font uploading.
+[Kanit](https://fonts.google.com/?query=kanit) was chosen to for overall font to keep evyerything uniform. It was also chosen to resembe the font used for the game (Destiny 2) itself, so that it ties in together.
+
+### Media:
+
 
 ## Features
 
-### Design Features
-### Current Design Features
-### Future Design Features
+### Design Features:
+### Current Design Features:
+### Future Design Features:
 
 ## Issues & Bugs
 
