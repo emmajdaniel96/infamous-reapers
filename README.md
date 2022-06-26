@@ -131,12 +131,28 @@ The main font used for the site is [Kanit](https://fonts.google.com/?query=kanit
 
 ### Media:
 
+The imagery used has been sorced froma selection of webites in relation to 'Destiny 2' 
+A single clip has been used to introduced and reperesent what is happening in the current season.
 
 ## Features
 
 ### Design Features:
+All of the pages on the site have a responsive navigaton with the following details:
+- **Header** - is left at the top of the page and is not static to the screen. Content 
+
 ### Current Design Features:
+- **Header** - appears on every page with clan logo
+- **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation
+- **Footer** - appears at the bottom of the bottom of every page, featuring social media icons as links to keep the aesthetic clean and simple
+- **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
+- **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
 ### Future Design Features:
+Future design fetaures that could be incorporated:
+- Attach sign up forms to the raid schedule
+- Create a page to help with sub class set up, to provide more giudance to new comers
+
+The features above have not been implemented in the main release of the siet due to lack of time to complete the page running up to submission.
+
 
 ## Issues & Bugs
 
@@ -144,6 +160,19 @@ The main font used for the site is [Kanit](https://fonts.google.com/?query=kanit
 
 ## Deployment
 
+The following project had been produced and developed using GitPod, which has then been commited and pushed to GitHub.
+
 ## Technologies Used
+
+### Main Languages:
+- HTML5
+- CSS3
+
+### Programs Used:
+- GitPod - used to write the code, commit and then push to GitHub
+- GitHub - used to store the code/ project after being pushed from GitPod
+- Balsamiq - used to create Wireframes throughout the design process 
+- Font Awesome - used for all the icons on each page (e.g social media icons for the footer)
+- Google Fonts - used throughout the site for the font which has been imported into the style.css file
 
 ## Credits & Acknowledgements
