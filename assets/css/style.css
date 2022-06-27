@@ -74,8 +74,6 @@ h1, h2 {
     }
 }
 
-
-
 /* Clan Inroduction */
 
 #intro {
@@ -150,7 +148,6 @@ iframe {
 .reviews {
     text-align: center;
     line-height: 3;
-
 }
 
 /* Raid Schedule Page */
@@ -242,7 +239,7 @@ button {
 /* footer */
 
 footer {
-    height: 115px;
+    height: 110px;
 }
 
 .social-networks {
