@@ -148,7 +148,9 @@ iframe {
 .reviews {
     text-align: center;
     line-height: 3;
+    padding-bottom: 10px;
 }
+
 
 /* Raid Schedule Page */
 
@@ -240,6 +242,7 @@ button {
 
 footer {
     height: 110px;
+    background-color: #707070;
 }
 
 .social-networks {
@@ -251,12 +254,13 @@ footer {
 }
 
 .social-networks i {
-    color: #333333;
+    color: #F8DC57;
     font-size: 150%;
     margin: 1%;
     padding: 10px 5px 0 5px;
 }
 
 footer h2 {
+    color: #F8DC57;
     text-align: center;
 }
