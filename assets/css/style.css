@@ -54,10 +54,26 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/destiny-gang.jpg') no-repeat center;
+    background: url('../images/destiny-gang.jpg') no-repeat center center;
     background-size: 100%;
     opacity: 0.8;
+
+    /* animates zoom effecton loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
+
+/* creates level of zoom for hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1)
+    }
+}
+
 
 
 /* Clan Inroduction */
