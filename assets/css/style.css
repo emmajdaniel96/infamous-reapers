@@ -282,6 +282,12 @@ footer p {
     }
 
     #benefits-block {
-        margin-left: 25%;
+        padding: 40px;
+        margin-left: 0;
+    }
+
+    iframe {
+        margin: 0 auto;
+        align-self: center;
     }
 }
