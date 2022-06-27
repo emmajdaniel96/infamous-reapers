@@ -76,18 +76,18 @@ h1, h2 {
 
 /* Benefits Section */
 
-#benefits {
+.benefits {
     color: #F8DC57;
     background-color: #707070;
     margin: 50px, 0;
     height: 275px;
 }
 
-#benefits ul {
+.benefits ul {
     list-style-type: none;
 }
 
-#benefits li {
+.benefits li {
     padding: 10px;
 }
 
@@ -103,22 +103,22 @@ iframe {
     margin-left: 21%;
 }
 
-#dates {
+.dates {
     padding-top: 40px;
 }
 
-#dates h2 {
-    color: inherit;
+.dates h2 {
+    color: #E4DEC1;
     text-decoration: underline;
 }
 
-#up-dates {
+.up-dates {
     color: #E4DEC1;
     background-color: #707070;
     padding-top: 30px;
     padding-right: 50px;
     padding-bottom: 30px;
-    padding-left: 53%;
+    padding-left: 51%;
     float: right;
 }
 
@@ -127,6 +127,10 @@ iframe {
     margin-top: 20px;
     margin-left: 30px;
 }
+
+
+/* Review Section */
+
 
 /* Raid Schedule Page */
 
