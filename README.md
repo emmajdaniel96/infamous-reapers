@@ -106,7 +106,7 @@ The site needs to provide the following to the manager:
 
 In order to create the website, a site map has been constructed on the basis of a the basic structure to a website. This shows how the user will navigate through the site with ease and with very little to no difficulty:
 
-![Site Map](assets/images/Site%20Map.png)
+![Site Map](assets/images/site-map.png)
 
 ### Template:
 

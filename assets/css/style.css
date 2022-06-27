@@ -142,6 +142,11 @@ iframe {
     margin-left: 60px;
 }
 
+#roadmap img {
+    width: 512px;
+    height: 288px;
+}
+
 
 /* Review Section */
 
@@ -260,7 +265,7 @@ footer {
     padding: 10px 5px 0 5px;
 }
 
-footer h2 {
+footer p {
     color: #F8DC57;
     text-align: center;
 }
