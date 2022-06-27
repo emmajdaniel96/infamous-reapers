@@ -74,10 +74,6 @@ h1, h2 {
     text-align: center;
 }
 
-iframe {
-    margin-left: 21%;
-}
-
 /* Benefits Section */
 
 #benefits {
@@ -101,8 +97,32 @@ iframe {
 }
 
 
+/* Current Season Section */
 
+iframe {
+    margin-left: 21%;
+}
 
+#dates {
+    color: #E4DEC1;
+    background-color: #707070;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 55%;
+    float: right;
+}
+
+#dates h2 {
+    color: inherit;
+    text-decoration: underline;
+}
+
+#roadmap {
+    width: 500px;
+    height: 400px;
+    float: left;
+}
 
 /* Raid Schedule Page */
 
