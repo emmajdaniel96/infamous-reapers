@@ -131,6 +131,11 @@ iframe {
 
 /* Review Section */
 
+.reviews {
+    text-align: center;
+    line-height: 3;
+
+}
 
 /* Raid Schedule Page */
 
@@ -221,7 +226,7 @@ button {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 115px;
 }
 
 .social-networks {
