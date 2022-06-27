@@ -117,10 +117,13 @@ In order to create the main template (Wireframes) of the site, the appearance an
 
 ### Colour Scheme:
 
-The colour scheme inspired by the the main image that from Destiny 2:
+The colour scheme inspired by the the main image that is from Destiny 2:
 
 ![Destiny Image](assets/images/collage.jpg)
 
+In order to create the color palette, [Coolors](https://coolors.co/collage-maker) collage maker was used. The color scheme itself is quite muted intentionally to stay on theme with the identity of 'Destiny 2'.
+Most of the written content is in a dark charcoal [#333333](#333333)to keep the written content as clear as possible and non-distracting.
+A bright yellow [#F8DC57](#F8DC57) has selected to for the written content of the Benefits list against the grey background [#707070](#707070) to give it a higher level of importance in comparison to the standard written content on the page.
 
 ### Typography:
 
