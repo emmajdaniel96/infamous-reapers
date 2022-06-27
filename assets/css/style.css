@@ -269,3 +269,19 @@ footer p {
     color: #F8DC57;
     text-align: center;
 }
+
+
+/* Media Queries */
+
+/* For larger to medium screens from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    #clan-image #hero-image {
+        align-self: center;
+        height: 540px;
+        margin: 0 auto;
+    }
+
+    #benefits-block {
+        margin-left: 25%;
+    }
+}
