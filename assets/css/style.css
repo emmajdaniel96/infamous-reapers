@@ -103,6 +103,10 @@ iframe {
     margin-left: 21%;
 }
 
+#dates {
+    padding-top: 40px;
+}
+
 #dates h2 {
     color: inherit;
     text-decoration: underline;
@@ -114,13 +118,14 @@ iframe {
     padding-top: 30px;
     padding-right: 50px;
     padding-bottom: 30px;
-    padding-left: 55%;
+    padding-left: 53%;
     float: right;
 }
 
 #roadmap {
-    width: 10%;
-    height: 100px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 30px;
 }
 
 /* Raid Schedule Page */
