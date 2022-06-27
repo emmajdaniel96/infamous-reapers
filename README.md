@@ -118,11 +118,9 @@ In order to create the main template (Wireframes) of the site, the appearance an
 ### Colour Scheme:
 
 The colour scheme inspired by the the main image that from Destiny 2:
-![Destiny Image](assets/images/destiny-gang.jpg)
 
-Colour balance as well as colour theory was considered from the image itself also.
+![Destiny Image](assets/images/collage.jpg)
 
-(add imagae of colour scheme)
 
 ### Typography:
 
@@ -138,7 +136,7 @@ A single clip has been used to introduced and reperesent what is happening in th
 
 ### Design Features:
 All of the pages on the site have a responsive navigaton with the following details:
-- **Header** - is left at the top of the page and is not static to the screen. Content 
+- **Header** - is left at the top of the page and is not static to the screen. 
 
 ### Current Design Features:
 - **Header** - appears on every page with clan logo
