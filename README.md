@@ -17,11 +17,11 @@
     - [Design Features](#design-features)
     - [Current Features](#current-features)
     - [Future Features](#future-features)
-6. [Issues & Bugs](#issues-&-bugs)
-7. [Testing](#testing)
-8. [Deployment](#deployment)
-9. [Technologies Used](#technologies-used)
-10. [Credits & Acknowledgements](#credits-&-acknowledgements)
+6. [Testing](#testing)
+    - [Issues & Bugs](#issues-&-bugs)
+7. [Deployment](#deployment)
+8. [Technologies Used](#technologies-used)
+9. [Credits & Acknowledgements](#credits-&-acknowledgements)
 
 
 ## Introduction

@@ -114,9 +114,12 @@ h1, h2 {
 /* Current Season Section */
 
 iframe {
-    align-self: center;
     width: 724px;
     height: 407px;
+}
+
+#iframe {
+    text-align: center;
 }
 
 .dates {
