@@ -143,14 +143,15 @@ iframe {
 }
 
 #roadmap {
+    float: left;
     position: absolute;
-    margin-top: 20px;
-    margin-left: 60px;
 }
 
 #roadmap img {
     width: 512px;
     height: 288px;
+    padding: 20px;
+    padding-left: 50px;
 }
 
 
@@ -300,11 +301,13 @@ footer p {
     .dates {
         padding: 30px;
         background: #707070;
+        height: 665px;
     }
 
-    #roadmap {
+    #roadmap img {
         text-align: center;
-        padding: 20px;
+        width: 82%;
+        height: auto;
     }
 
     .up-dates {
@@ -312,6 +315,8 @@ footer p {
         color: #E4DEC1;
         background-color: #707070;
         padding: 30px;
+        height: 260px;
+        margin-top: 373px;
     }
 
     .reviews {
