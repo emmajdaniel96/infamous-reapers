@@ -291,8 +291,31 @@ footer p {
         margin-left: 0;
     }
 
-    iframe {
-        margin: 0 auto;
-        align-self: center;
+    #iframe {
+        padding: 30px;
+        text-align: center;
+    }
+
+    .dates {
+        padding: 30px;
+        background: #707070;
+    }
+
+    #roadmap {
+        text-align: center;
+        padding: 20px;
+    }
+
+    .up-dates {
+        text-align: center;
+        color: #E4DEC1;
+        background-color: #707070;
+        padding: 30px;
+    }
+
+    .reviews {
+        text-align: center;
+        line-height: 2;
+        padding: 10px;
     }
 }
