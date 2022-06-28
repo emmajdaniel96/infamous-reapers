@@ -327,7 +327,7 @@ footer p {
 }
 
 /* For medium screen sizes from 950px wide and down */
-@media screen and (max-width:950px) {
+@media screen and (max-width: 950px) {
     
     #menu {
         text-align: center;
@@ -338,5 +338,13 @@ footer p {
 
     #clan-main {
         height: 560px;
+    }
+}
+
+/* For small screen sizes from 500px wide down */
+@media screen and (max-width: 500px) {
+    #hero-image {
+        height: 290px;
+
     }
 }
