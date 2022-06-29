@@ -173,20 +173,26 @@ iframe {
     overflow: hidden;
 }
 
+.raids #weekly-raids {
+    text-align: center;
+    background-color: #707070;
+    color: #F8DC57;
+}
+
 .raids div {
     height: 225px;
     width: 100%;
     color: #fafafa;
-    background-color: rgba(0, 0, 0, 0.5);
     float: left;
     padding-top: 60px;
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
+    opacity: 0.5;
 }
 
 .raids #vog {
-    background: url('../images/vault-of-glass.jpeg') no-repeat center;
+    background: url('../images/vault-of-glass.jpeg') no-repeat center rgba(28, 28, 28, 0.547);
     background-size: 100%;
 }
 
