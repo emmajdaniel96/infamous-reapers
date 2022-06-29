@@ -703,10 +703,17 @@ footer p {
     .up-dates {
         margin-top: 425px;
     }
+
+    .reviews h2 {
+        height: 55px;
 }
 
 /* For small screen sizes from 500px wide down */
 @media screen and (max-width: 500px) {
+
+    #menu, #logo {
+        line-height: 40px;
+    }
 
     #hero-image {
         height: 290px;
