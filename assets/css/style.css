@@ -494,7 +494,20 @@ footer p {
         width: 120%;
     }
 
+    #join-us-outer {
+        height: 735px;
+        width: 100%;
+    }
+
     fieldset {
-        height: 580px;
+        height: 450px;
+    }
+
+    .box {
+        margin: -125px 419px 0px 0px;
+        border-radius: 0px;
+        padding-top: 186px;
+        padding-bottom: 30px;
+        padding-left: 21px;
     }
 }
