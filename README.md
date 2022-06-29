@@ -14,7 +14,6 @@
     - [Typography](#typography)
     - [Media](#media)
 5. [Features](#features)
-    - [Design Features](#design-features)
     - [Current Features](#current-features)
     - [Future Features](#future-features)
 6. [Testing](#testing)
@@ -137,13 +136,9 @@ A single clip has been used to introduced and reperesent what is happening in th
 
 ## Features
 
-### Design Features:
-All of the pages on the site have a responsive navigaton with the following details:
-- **Header** - is left at the top of the page and is not static to the screen. 
-
 ### Current Design Features:
 - **Header** - appears on every page with clan logo
-- **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation
+- **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation - [Header/ Nav Bar]('site-features/header.jpg')
 - **Footer** - appears at the bottom of the bottom of every page, featuring social media icons as links to keep the aesthetic clean and simple
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
@@ -206,3 +201,5 @@ The following project had been produced and developed using GitPod, which has th
 - [Balsamiq](https://balsamiq.com/wireframes/) - used to create Wireframes throughout the design process 
 - [Font Awesome](https://fontawesome.com/) - used for all the icons on each page (e.g social media icons for the footer)
 - [Google Fonts](https://fonts.google.com/) - used throughout the site for the font which has been imported into the style.css file
+
+## Credits & Acknowledgements
