@@ -256,7 +256,7 @@ button {
 
 .box {
     color: #E4DEC1;
-    margin: 24px 500px 100px 150px;
+    margin: 35px 500px 100px 150px;
     border-radius: 5px;
     background-color: rgba(68, 62, 62, 0.9);
     font-size: 130%;
@@ -366,8 +366,9 @@ footer p {
     .raids div h2 {
         color: #fafafa;
         font-size: 1.7em;
+    }
 }
-
+ 
 /* For medium screen sizes from 850px wide and down */
 @media screen and (max-width: 850px) {
     
@@ -393,6 +394,30 @@ footer p {
 
     .reviews h2 {
         height: 55px;
+    }
+
+     /* Join Us Page */
+
+    #join-us-outer {
+        height: 730px;
+    }
+
+    #join-us-background {
+        height: 940px;
+        width: 120%;
+    }
+
+    .form-text {
+        width: 500px;
+    }
+
+    .box {
+        margin: 50px 455px 310px 150px;
+        border-radius: 5px;
+        font-size: 130%;
+        padding-top: 200px;
+        padding-bottom: 30px;
+        padding-left: 21px;
     }
 }        
 
@@ -461,4 +486,4 @@ footer p {
     footer {
         height: 80px;
     }
-}}
+}
