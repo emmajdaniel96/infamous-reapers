@@ -486,4 +486,15 @@ footer p {
     footer {
         height: 80px;
     }
+
+    /* Join Us Page */
+
+    #join-us-background {
+        height: 500px;
+        width: 120%;
+    }
+
+    fieldset {
+        height: 580px;
+    }
 }
