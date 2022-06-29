@@ -143,13 +143,13 @@ A single clip has been used to introduced and reperesent what is happening in th
 Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
 
 - **Footer** - appears at the bottom of the bottom of every page, featuring social media icons (4), as links to keep the aesthetic clean and simple
-[Footer]('site-features/footer.jpg')
+- [Footer]('site-features/footer.jpg')
 
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
-[Embedded Clip]('site-features/clip.jpg')
+- [Embedded Clip]('site-features/clip.jpg')
 
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
-[Form]('site-features/form.jpg')
+- [Form]('site-features/form.jpg')
 
 ### Future Features:
 Future design fetaures that could be incorporated:
