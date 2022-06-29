@@ -167,13 +167,17 @@ The features above have not been implemented in the main release of the site due
 
 ### Testing
 
-- Each page had gone through the [Validator](https://validator.w3.org/) in order to make any bugs or erros that have been missed whilst building the site are caught before submission.
+- Each page had gone through the [W3C Validator](https://validator.w3.org/) in order to make any bugs or erros that have been missed whilst building the site are caught before submission.
 
 * [Home Page Results]('testing/index.html-result.jpg')
 
 * [Raid Schedule Page]('testing/raids.html-result.jpg')
 
 * [Join Us Page]('testing/joinus.html-result.jpg')
+
+* [CSS Styling Page]('testing/css-styling-result.jpg')
+
+After validating each page used for the site, no syntax errors are present.
 
 Device Testing:
 - Google Chrome Developer tools were use to test the responsiveness of the site on different devices such as:
@@ -197,8 +201,8 @@ The following project had been produced and developed using GitPod, which has th
 - CSS3
 
 ### Programs Used:
-- GitPod - used to write the code, commit and then push to GitHub
-- GitHub - used to store the code/ project after being pushed from GitPod
-- Balsamiq - used to create Wireframes throughout the design process 
-- Font Awesome - used for all the icons on each page (e.g social media icons for the footer)
-- Google Fonts - used throughout the site for the font which has been imported into the style.css file
+- [GitPod](https://www.gitpod.io/) - used to write the code, commit and then push to GitHub
+- [GitHub](https://github.com/) - used to store the code/ project after being pushed from GitPod
+- [Balsamiq](https://balsamiq.com/wireframes/) - used to create Wireframes throughout the design process 
+- [Font Awesome](https://fontawesome.com/) - used for all the icons on each page (e.g social media icons for the footer)
+- [Google Fonts](https://fonts.google.com/) - used throughout the site for the font which has been imported into the style.css file
