@@ -329,24 +329,362 @@ footer p {
         height: auto;
     }
 
-    .up-dates {
-        text-align: center;
-        color: #E4DEC1;
-        background-color: #707070;
+    @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300&family=Lato:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+    color: #333333;
+}
+
+
+/* headings and logo */
+
+h1, h2 {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 3px;
+    color: #333333;
+}
+
+#logo {
+    font-size: 250%;
+    float: left;
+    margin-left: 20px;
+}
+
+
+/* navigation bar/ menu */
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    text-transform: uppercase;
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+
+/* clan image */
+
+#clan-main {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/destiny-gang.jpg') no-repeat center center;
+    background-size: 100%;
+    opacity: 0.8;
+
+    /* animates zoom effecton loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates level of zoom for hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1)
+    }
+}
+
+/* Clan Inroduction */
+
+#intro {
+    margin: 30px;
+    text-align: center;
+}
+
+.heading {
+    margin: 30px;
+    font-weight: 350;
+    font-size: 2em;
+    text-align: center;
+}
+
+/* Benefits Section */
+
+.benefits {
+    color: #F8DC57;
+    background-color: #707070;
+    margin: 50px, 0;
+    height: 275px;
+}
+
+.benefits ul {
+    list-style-type: none;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+.benefits li {
+    padding: 10px;
+}
+
+#benefits-block {
+    margin-left: 27%;
+    padding-top: 35px;
+}
+
+
+/* Current Season Section */
+
+iframe {
+    width: 724px;
+    height: 407px;
+}
+
+#iframe {
+    text-align: center;
+    padding: 30px;
+}
+
+.dates {
+    background-color: #707070;
+    height: 330px;
+}
+
+.dates h2 {
+    color: #E4DEC1;
+    text-decoration: underline;
+}
+
+.up-dates {
+    color: #E4DEC1;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 51%;
+    float: right;
+}
+
+#roadmap {
+    float: left;
+    position: absolute;
+}
+
+#roadmap img {
+    width: 512px;
+    height: 288px;
+    padding: 20px;
+    padding-left: 50px;
+}
+
+
+/* Review Section */
+
+.reviews {
+    text-align: center;
+    line-height: 3;
+    padding-bottom: 10px;
+}
+
+
+/* Raid Schedule Page */
+
+.raids {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.raids #weekly-raids {
+    text-align: center;
+    background-color: #707070;
+    color: #F8DC57;
+}
+
+.raids div {
+    height: 225px;
+    width: 100%;
+    color: #fafafa;
+    float: left;
+    padding-top: 60px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+.raids #vog {
+    background: url('../images/vault-of-glass.jpeg') no-repeat center;
+    background-size: 100%;
+}
+
+.raids #deep-stone {
+    background: url('../images/deep-stone.jpg') no-repeat center;
+    background-size: 100%;
+}
+
+.raids #garden {
+    background: url('../images/garden-of-salvation.jpeg')no-repeat center;
+    background-size: 100%;
+}
+
+.raids #last-wish {
+    background: url('../images/last-wish.jpeg') no-repeat center;
+    background-size: 100%;
+}
+
+.raids #vow {
+    background: url('../images/vow.jpeg') no-repeat center;
+    background-size: 100%;
+}
+
+/* Join Us Page */
+
+fieldset {
+    margin-top: -560px;
+}
+
+input[type=text], select {
+    border: 1px solid #333333;
+    border-radius: 2px;
+    padding: 3px;
+    margin: 0;
+}
+
+input[type=text]:focus {
+    border: 3px solid #333333;
+}
+
+button {
+    padding: 7px 15px;
+    border-radius: 4px;
+    text-transform: uppercase;
+}
+
+#join-us-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#join-us-background {
+    height: 600px;
+    width: 100%;
+    background: url('../images/sagiras-shell.jpeg') no-repeat center;
+    background-size: 100%;
+    opacity: 0.6;
+}
+
+.box {
+    margin: 50px 500px 180px 150px;
+    border-radius: 5px;
+    background-color: rgba(68, 62, 62, 0.547);
+    font-size: 130%;
+    padding-top: 200px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+
+.form-text {
+    margin-top: -140px;
+    position: relative;
+}
+
+
+/* footer */
+
+footer {
+    height: 110px;
+    background-color: #707070;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    color: #F8DC57;
+    font-size: 150%;
+    margin: 1%;
+    padding: 10px 5px 0 5px;
+}
+
+footer p {
+    color: #F8DC57;
+    text-align: center;
+}
+
+
+/* Media Queries */
+
+/* For larger to medium screens from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+
+    #clan-image #hero-image {
+        align-self: center;
+        height: 560px;
+        margin: 0 auto;
+    }
+
+    #benefits-block {
+        padding: 40px;
+        margin-left: 0;
+    }
+
+    #iframe {
         padding: 30px;
-        height: 260px;
-        margin-top: 373px;
+        text-align: center;
+    }
+
+    .dates {
+        padding: 30px;
+        background: #707070;
+        height: 900px;
+    }
+
+    #roadmap img {
+        text-align: center;
+        width: 90%;
+        height: auto;
+        padding: 40px;
+    }
+
+    .up-dates {
+        color: #E4DEC1;
+        padding: 60px;
+        padding-bottom: 45px;
+        height: 250px;
+        margin-top: 608px;
     }
 
     .reviews {
         text-align: center;
         line-height: 2;
         padding: 10px;
+        padding-bottom: 35px;
+    }
+
+    .reviews h2 {
+        height: 100px;
     }
 }
 
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
+/* For medium screen sizes from 850px wide and down */
+@media screen and (max-width: 850px) {
     
     #menu {
         text-align: center;
@@ -356,6 +694,14 @@ footer p {
 
     #clan-main {
         height: 560px;
+    }
+
+    .dates {
+        height: 775px;
+    }
+
+    .up-dates {
+        margin-top: 425px;
     }
 }
 
@@ -367,3 +713,11 @@ footer p {
 
     }
 }
+
+    .reviews {
+        text-align: center;
+        line-height: 2;
+        padding: 10px;
+    }
+}
+
