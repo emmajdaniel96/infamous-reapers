@@ -146,6 +146,8 @@ Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav
 [Footer]('site-features/footer.jpg')
 
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
+[Embedded Clip]('site-features/clip.jpg')
+
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
 
 ### Future Features:
