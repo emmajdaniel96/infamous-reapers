@@ -169,8 +169,22 @@ The features above have not been implemented in the main release of the site due
 
 - Each page had gone through the [Validator](https://validator.w3.org/) in order to make any bugs or erros that have been missed whilst building the site are caught before submission.
 
-* index.html
-    - 
+* [Home Page Results]('testing/index.html-result.jpg')
+
+* [Raid Schedule Page]('testing/raids.html-result.jpg')
+
+* [Join Us Page]('testing/joinus.html-result.jpg')
+
+Device Testing:
+- Google Chrome Developer tools were use to test the responsiveness of the site on different devices such as:
+   - Apple iPad Air
+   - Apple iPad Mini
+   - iPhone SE
+   - iPhone XR
+   - Pixel 5
+   - Samsung Galaxy S8+
+   - Nest Hub
+   - Nest Hub Max
 
 ## Deployment
 
