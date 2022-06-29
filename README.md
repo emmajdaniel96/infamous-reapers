@@ -151,8 +151,9 @@ All of the pages on the site have a responsive navigaton with the following deta
 Future design fetaures that could be incorporated:
 - Attach sign up forms to the raid schedule
 - Create a page to help with sub class set up, to provide more giudance to new comers
+- Create a 'Thank you for joining page' for when the form is submitted to join the clan
 
-The features above have not been implemented in the main release of the siet due to lack of time to complete the page running up to submission.
+The features above have not been implemented in the main release of the site due to lack of time to complete the page/ pages running up to submission.
 
 
 ## Issues & Bugs
@@ -160,11 +161,15 @@ The features above have not been implemented in the main release of the siet due
 - Struggled to position the Iframe (YouTube clip) and to allow it to be responsive
   - Used a div tag to center the iframe
 
+
   
 
 ### Testing
 
+- Each page had gone through the [Validator](https://validator.w3.org/) in order to make any bugs or erros that have been missed whilst building the site are caught before submission.
 
+* index.html
+    - 
 
 ## Deployment
 
@@ -182,5 +187,3 @@ The following project had been produced and developed using GitPod, which has th
 - Balsamiq - used to create Wireframes throughout the design process 
 - Font Awesome - used for all the icons on each page (e.g social media icons for the footer)
 - Google Fonts - used throughout the site for the font which has been imported into the style.css file
-
-## Credits & Acknowledgements

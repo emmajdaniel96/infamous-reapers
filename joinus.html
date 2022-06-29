@@ -32,11 +32,11 @@
             </ul>
         </nav>
     </header>
-    <section id="join-us-outer">
+    <div id="join-us-outer">
         <div id="join-us-background"></div>
-    </section>
+    </div>
     <!-- Form Section -->
-    <section>
+    <div>
         <fieldset>
             <div class="box">
                 <form action="/action_page.php" class="form-text">
@@ -45,6 +45,7 @@
                 <br>
                 <label for="age">Age: </label><br>
                 <select name="age" id="age" required>
+                <option value="" hidden>Select</option>
                 <option value="16-19">16-19</option>
                 <option value="20-24">20-24</option>
                 <option value="25-29">25-29</option>
@@ -56,12 +57,12 @@
                 <label for="bungieID">Bungie ID: </label><br>
                 <input type="text" id="bungieID" name="bungieID" required>
                     <br>
-                <label for="platform-selector">Select Platform: </label>
-                <input type="radio" name="platform-selector" id="playstation" value="playstation">
+                <label id="platform-selector">Select Platform: </label>
+                <input type="radio" name="platform-selector" id="playstation" value="playstation" >
                 <label for="playstation">Playstation</label>
-                <input type="radio" name="platform-selector" id="xbox" value="xbox">
+                <input type="radio" name="platform-selector" id="xbox" value="xbox" >
                 <label for="xbox">Xbox</label>
-                <input type="radio" name="platform-selector" id="pc" value="pc">
+                <input type="radio" name="platform-selector" id="pc" value="pc" >
                 <label for="pc">PC</label>
                     <br>
                     <br>
@@ -69,7 +70,7 @@
                 </form>
             </div>
         </fieldset>
-    </section>
+    </div>
     <!-- Footer Section -->
 
     <footer>
