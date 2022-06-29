@@ -195,7 +195,20 @@ iframe {
     background-size: 100%;
 }
 
+.raids #garden {
+    background: url('../images/garden-of-salvation.jpeg')no-repeat center;
+    background-size: 100%;
+}
 
+.raids #last-wish {
+    background: url('../images/last-wish.jpeg') no-repeat center;
+    background-size: 100%;
+}
+
+.raids #vow {
+    background: url('../images/vow.jpeg') no-repeat center;
+    background-size: 100%;
+}
 
 /* Join Us Page */
 
