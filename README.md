@@ -110,7 +110,7 @@ In order to create the website, a site map has been constructed on the basis of 
 
 ### Template:
 
-In order to create the main template (Wireframes) of the site, the appearance and aesthetics of the site had to be thought out whilst giving the user a positive experience alongside simple navigation.
+In order to create the main template (Wireframe) of the site, the appearance and aesthetics of the site had to be thought out whilst giving the user a positive experience alongside simple navigation.
 
 ![Site Template](assets/images/site-template.jpg)
 
@@ -132,7 +132,7 @@ The main font used for the site is [Kanit](https://fonts.google.com/?query=kanit
 
 ### Media:
 
-The imagery used has been sorced froma selection of webites in relation to 'Destiny 2' 
+The imagery used has been sorced from a selection of webites in relation to 'Destiny 2'. 
 A single clip has been used to introduced and reperesent what is happening in the current season.
 
 ## Features
@@ -147,7 +147,8 @@ All of the pages on the site have a responsive navigaton with the following deta
 - **Footer** - appears at the bottom of the bottom of every page, featuring social media icons as links to keep the aesthetic clean and simple
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
-### Future Design Features:
+
+### Future Features:
 Future design fetaures that could be incorporated:
 - Attach sign up forms to the raid schedule
 - Create a page to help with sub class set up, to provide more giudance to new comers

@@ -255,9 +255,10 @@ button {
 }
 
 .box {
+    color: #E4DEC1;
     margin: 50px 500px 180px 150px;
     border-radius: 5px;
-    background-color: rgba(68, 62, 62, 0.547);
+    background-color: rgba(68, 62, 62, 0.9);
     font-size: 130%;
     padding-top: 200px;
     padding-bottom: 30px;
