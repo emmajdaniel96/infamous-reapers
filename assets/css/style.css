@@ -270,6 +270,10 @@ button {
     position: relative;
 }
 
+.label {
+    padding: 7px;
+}
+
 
 /* footer */
 
