@@ -40,32 +40,40 @@
         <fieldset>
             <div class="box">
                 <form action="/action_page.php" class="form-text">
-                <label for="name">Name: </label><br>
-                <input type="text" id="name" name="name" required>
+                    <div class="label">
+                        <label for="name">Name: </label><br>
+                        <input type="text" id="name" name="name" required>
+                    </div>
                 <br>
-                <label for="age">Age: </label><br>
-                <select name="age" id="age" required>
-                <option value="" hidden>Select</option>
-                <option value="16-19">16-19</option>
-                <option value="20-24">20-24</option>
-                <option value="25-29">25-29</option>
-                <option value="30-34">30-34</option>
-                <option value="35-39">35-39</option>
-                <option value="40+">40+</option>
-                </select>
-                    <br>
-                <label for="bungieID">Bungie ID: </label><br>
-                <input type="text" id="bungieID" name="bungieID" required>
-                    <br>
-                <label id="platform-selector">Select Platform: </label>
-                <input type="radio" name="platform-selector" id="playstation" value="playstation" >
-                <label for="playstation">Playstation</label>
-                <input type="radio" name="platform-selector" id="xbox" value="xbox" >
-                <label for="xbox">Xbox</label>
-                <input type="radio" name="platform-selector" id="pc" value="pc" >
-                <label for="pc">PC</label>
-                    <br>
-                    <br>
+                    <div class="label">
+                        <label for="age">Age: </label><br>
+                        <select name="age" id="age" required>
+                        <option value="" hidden>Select</option>
+                        <option value="16-19">16-19</option>
+                        <option value="20-24">20-24</option>
+                        <option value="25-29">25-29</option>
+                        <option value="30-34">30-34</option>
+                        <option value="35-39">35-39</option>
+                        <option value="40+">40+</option>
+                        </select>
+                    </div>
+                <br>
+                    <div class="label">
+                        <label for="bungieID">Bungie ID: </label><br>
+                        <input type="text" id="bungieID" name="bungieID" required>
+                    </div>
+                <br>
+                    <div class="label">
+                        <label id="platform-selector">Select Platform: </label>
+                        <input type="radio" name="platform-selector" id="playstation" value="playstation" >
+                        <label for="playstation">Playstation</label>
+                        <input type="radio" name="platform-selector" id="xbox" value="xbox" >
+                        <label for="xbox">Xbox</label>
+                        <input type="radio" name="platform-selector" id="pc" value="pc" >
+                        <label for="pc">PC</label>
+                    </div>
+                <br>
+                <br>
                 <button type="submit" value="submit">Submit</button>
                 </form>
             </div>
