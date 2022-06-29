@@ -149,6 +149,7 @@ Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav
 [Embedded Clip]('site-features/clip.jpg')
 
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
+[Form]('site-features/form.jpg')
 
 ### Future Features:
 Future design fetaures that could be incorporated:
