@@ -523,10 +523,6 @@ iframe {
     box-sizing: border-box;
 }
 
-.raids div h2 {
-    color: #fafafa;
-}
-
 .raids #vog {
     background: url('../images/vault-of-glass.jpeg') no-repeat center;
     background-size: 100%;
@@ -638,6 +634,8 @@ footer p {
 /* For larger to medium screens from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
+    /* Home Page */
+
     #clan-image #hero-image {
         align-self: center;
         height: 560px;
@@ -685,11 +683,19 @@ footer p {
     .reviews h2 {
         height: 100px;
     }
+
+    /* Raids Page */
+
+    .raids div h2 {
+        color: #fafafa;
+        font-size: 1.7em;
 }
 
 /* For medium screen sizes from 850px wide and down */
 @media screen and (max-width: 850px) {
     
+    /* index.html */
+
     #menu {
         text-align: center;
         margin-left: 30px;
@@ -716,6 +722,7 @@ footer p {
 /* For small screen sizes from 500px wide down */
 @media screen and (max-width: 500px) {
 
+    /* index.html */
     #menu, #logo {
         line-height: 40px;
     }
@@ -777,4 +784,4 @@ footer p {
     footer {
         height: 80px;
     }
-}}
+}
