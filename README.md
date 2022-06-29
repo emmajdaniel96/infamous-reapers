@@ -112,7 +112,7 @@ In order to create the website, a site map has been constructed on the basis of 
 
 In order to create the main template (Wireframes) of the site, the appearance and aesthetics of the site had to be thought out whilst giving the user a positive experience alongside simple navigation.
 
-[Wireframes image](assets/images/)
+![Site Template](assets/images/site-template.jpg)
 
 
 ### Colour Scheme:
