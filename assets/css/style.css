@@ -523,6 +523,10 @@ iframe {
     box-sizing: border-box;
 }
 
+.raids div h2 {
+    color: #fafafa;
+}
+
 .raids #vog {
     background: url('../images/vault-of-glass.jpeg') no-repeat center;
     background-size: 100%;
@@ -706,7 +710,8 @@ footer p {
 
     .reviews h2 {
         height: 55px;
-}
+    }
+}        
 
 /* For small screen sizes from 500px wide down */
 @media screen and (max-width: 500px) {
@@ -715,16 +720,61 @@ footer p {
         line-height: 40px;
     }
 
+    #menu li {
+        margin-right: 16px;
+    }
+
+    #clan-main {
+        height: 270px;
+    }
+
     #hero-image {
         height: 290px;
-
     }
-}
+
+    .benefits {
+        height: 388px;
+    }
+
+    .heading {
+        margin: 10px;
+    }
+
+    iframe {
+        width: 289px;
+        height: 163px;
+    }
+
+    #iframe {
+        padding: 10px
+    }
+
+    #roadmap img {
+        padding: 0;
+    }
+
+    .up-dates {
+        margin-top: 174px;
+        padding: 10px
+    }
+
+    .dates {
+        height: 515px;
+    }
+
+    .reviews h2 {
+        height: 100px;
+        line-height: 2;
+    }
 
     .reviews {
         text-align: center;
-        line-height: 2;
+        line-height: 1.5;
         padding: 10px;
+        height: 360px;
     }
-}
 
+    footer {
+        height: 80px;
+    }
+}}
