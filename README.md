@@ -138,8 +138,13 @@ A single clip has been used to introduced and reperesent what is happening in th
 
 ### Current Design Features:
 - **Header** - appears on every page with clan logo
-- **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation - [Header/ Nav Bar]('site-features/header.jpg')
-- **Footer** - appears at the bottom of the bottom of every page, featuring social media icons as links to keep the aesthetic clean and simple
+- **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation 
+
+Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
+
+- **Footer** - appears at the bottom of the bottom of every page, featuring social media icons (4), as links to keep the aesthetic clean and simple
+[Footer]('site-features/footer.jpg')
+
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
 
