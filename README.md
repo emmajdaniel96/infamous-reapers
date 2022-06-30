@@ -132,24 +132,23 @@ The main font used for the site is [Kanit](https://fonts.google.com/?query=kanit
 ### Media:
 
 The imagery used has been sorced from a selection of webites in relation to 'Destiny 2'. 
-A single clip has been used to introduced and reperesent what is happening in the current season.
+A single clip has been used to introduced and reperesent what is happening in the current season. This is a clip embedded from YouTube.
 
 ## Features
 
 ### Current Design Features:
 - **Header** - appears on every page with clan logo
 - **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation 
-
-Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
+    - Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
 
 - **Footer** - appears at the bottom of the bottom of every page, featuring social media icons (4), as links to keep the aesthetic clean and simple
-- [Footer]('site-features/footer.jpg')
+    - [Footer]('site-features/footer.jpg')
 
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
-- [Embedded Clip]('site-features/clip.jpg')
+    - [Embedded Clip]('site-features/clip.jpg')
 
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
-- [Form]('site-features/form.jpg')
+    - [Form]('site-features/form.jpg')
 
 ### Future Features:
 Future design fetaures that could be incorporated:
@@ -162,9 +161,17 @@ The features above have not been implemented in the main release of the site due
 
 ## Issues & Bugs
 
+### Home Page
 - Struggled to position the Iframe (YouTube clip) and to allow it to be responsive
-  - Used a div tag to center the iframe
+    - Used a div tag to center the iframe
 
+### Raid Schedule Page
+
+### Join Us Page
+- [Form Error]('testing/joinus.html-errors.jpg')
+    - 
+
+### CSS Styling Page
 
   
 
@@ -174,11 +181,11 @@ The features above have not been implemented in the main release of the site due
 
 * [Home Page Results]('testing/index.html-result.jpg')
 
-* [Raid Schedule Page]('testing/raids.html-result.jpg')
+* [Raid Schedule Page Results]('testing/raids.html-result.jpg')
 
-* [Join Us Page]('testing/joinus.html-result.jpg')
+* [Join Us Page Results]('testing/joinus.html-result.jpg')
 
-* [CSS Styling Page]('testing/css-styling-result.jpg')
+* [CSS Styling Page Results]('testing/css-styling-result.jpg')
 
 After validating each page used for the site, no syntax errors are present.
 
