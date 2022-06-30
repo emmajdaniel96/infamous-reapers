@@ -171,7 +171,6 @@ The features above have not been implemented in the main release of the site due
     - As an alternative, styling was used to give the same effect without validation error
 
 
-
 ### Raid Schedule Page
 - No signficant issues or bugs have occured on this page throughout the project
 
@@ -182,7 +181,7 @@ The features above have not been implemented in the main release of the site due
     - For errors 2-4 id's had to be added in order to make the label elements valid
 
 ### CSS Styling Page
-
+- Errors occured due to missing curly brackets ({})
   
 
 ### Testing
