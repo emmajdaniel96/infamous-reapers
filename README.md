@@ -164,12 +164,19 @@ The features above have not been implemented in the main release of the site due
 ### Home Page
 - Struggled to position the Iframe (YouTube clip) and to allow it to be responsive
     - Used a div tag to center the iframe
+- Error with element [h3]('testing/home-page-h3-error.jpg') occured due to it not being able to be a child element of the ul element.
+    - As an alternative, styling was used to give the same effect without validation error
+
+
 
 ### Raid Schedule Page
+- No signficant issues or bugs have occured on this page throughout the project
 
 ### Join Us Page
-- [Form Error]('testing/joinus.html-errors.jpg')
-    - 
+- [Form]('testing/joinus.html-errors.jpg')
+    - Part of the forms code was not vaild after going through W3C Validator. Option element without a label attribut cannot be empty.
+    - To correct this, the value was left empty and dded a select option that would be hidden.
+    - For errors 2-4 id's had to be added in order to make the label elements valid
 
 ### CSS Styling Page
 
