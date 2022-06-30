@@ -215,6 +215,8 @@ Device Testing:
    - Nest Hub
    - Nest Hub Max
 
+   Whilst testing performance on Google Chrome Developer tools, Lighthouse testing was done. Performance had the lowest rating due to the file size of images. In future this will be something that is more considered for projects going forward.
+
 ## Deployment
 
 The following project had been produced and developed using GitPod, which has then been commited and pushed to GitHub. Find instruction below:
