@@ -134,29 +134,29 @@ The main font used for the site is [Kanit](https://fonts.google.com/?query=kanit
 The imagery used has been sorced from a selection of webites in relation to 'Destiny 2'. 
 A single clip has been used to introduced and reperesent what is happening in the current season. This is a clip embedded from YouTube.
 
-- [YouTube Clip Link]('https://www.youtube.com/watch?v=waX5YJgc8Kc')
+- [YouTube Clip Link](https://www.youtube.com/watch?v=waX5YJgc8Kc)
 
 ## Features
 
 ### Current Design Features:
 - **Header** - appears on every page with clan logo
 - **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation 
-- Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
+- Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar](site-features/header.jpg)
 
 - **Hero Image** - main image loads in with subtle animation to introduce the home page
-- [Hero Image]('site-features/hero-image.jpg')
+- [Hero Image](site-features/hero-image.jpg)
 
 
 - **Footer** - appears at the bottom of the bottom of every page, featuring social media icons (4), as links to keep the aesthetic clean and simple
-- [Footer]('site-features/footer.jpg')
+- [Footer](site-features/footer.jpg)
 
 
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
-- [Embedded Clip]('site-features/clip.jpg')
+- [Embedded Clip](site-features/clip.jpg)
 
 
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
-- [Form]('site-features/form.jpg')
+- [Form](site-features/form.jpg)
 
 ### Future Features:
 Future design fetaures that could be incorporated:
@@ -173,7 +173,7 @@ The features above have not been implemented in the main release of the site due
 ### Home Page
 - Struggled to position the Iframe (YouTube clip) and to allow it to be responsive
     - Used a div tag to center the iframe
-- Error with element [h3]('testing/home-page-h3-error.jpg') occured due to it not being able to be a child element of the ul element.
+- Error with element [h3](testing/home-page-h3-error.jpg) occured due to it not being able to be a child element of the ul element.
     - As an alternative, styling was used to give the same effect without validation error
 
 
@@ -181,7 +181,7 @@ The features above have not been implemented in the main release of the site due
 - No signficant issues or bugs have occured on this page throughout the project
 
 ### Join Us Page
-- [Form]('testing/joinus.html-errors.jpg')
+- [Form](testing/joinus.html-errors.jpg)
     - Part of the forms code was not vaild after going through W3C Validator. Option element without a label attribut cannot be empty.
     - To correct this, the value was left empty and dded a select option that would be hidden.
     - For errors 2-4 id's had to be added in order to make the label elements valid
@@ -194,13 +194,13 @@ The features above have not been implemented in the main release of the site due
 
 - Each page had gone through the [W3C Validator](https://validator.w3.org/) in order to make any bugs or erros that have been missed whilst building the site are caught before submission.
 
-* [Home Page Results]('testing/index.html-result.jpg')
+* [Home Page Results](testing/index.html-result.jpg)
 
-* [Raid Schedule Page Results]('testing/raids.html-result.jpg')
+* [Raid Schedule Page Results](testing/raids.html-result.jpg)
 
-* [Join Us Page Results]('testing/joinus.html-result.jpg')
+* [Join Us Page Results](testing/joinus.html-result.jpg)
 
-* [CSS Styling Page Results]('testing/css-styling-result.jpg')
+* [CSS Styling Page Results](testing/css-styling-result.jpg)
 
 After validating each page used for the site, no syntax errors are present.
 
@@ -226,17 +226,17 @@ The following project had been produced and developed using GitPod, which has th
 - CSS3
 
 ### Programs Used:
-- [GitPod]('https://www.gitpod.io/') - used to write the code, commit and then push to GitHub
-- [GitHub]('https://github.com/') - used to store the code/ project after being pushed from GitPod
-- [Balsamiq]('https://balsamiq.com/wireframes/') - used to create Wireframes throughout the design process 
-- [Font Awesome]('https://fontawesome.com/') - used for all the icons on each page (e.g social media icons for the footer)
-- [Google Fonts]('https://fonts.google.com/') - used throughout the site for the font which has been imported into the style.css file
-- [Colors Picker]('https://colors-picker.com/') - used to select hex colours for the color scheme
+- [GitPod](https://www.gitpod.io/) - used to write the code, commit and then push to GitHub
+- [GitHub](https://github.com/) - used to store the code/ project after being pushed from GitPod
+- [Balsamiq](https://balsamiq.com/wireframes/) - used to create Wireframes throughout the design process 
+- [Font Awesome](https://fontawesome.com/) - used for all the icons on each page (e.g social media icons for the footer)
+- [Google Fonts](https://fonts.google.com/) - used throughout the site for the font which has been imported into the style.css file
+- [Colors Picker](https://colors-picker.com/) - used to select hex colours for the color scheme
 - [Coolors]('https://coolors.co/') - used to build the colour palette used from hero image
 
 
 ## Credits & Acknowledgements
 
-- [W3Schools]('https://www.w3schools.com/')
+- [W3Schools](https://www.w3schools.com/)
 
 I would like to give a big thank you to my mentor, friends and family for their constant help and support throughout the course whether it be through design/ structure suggestions, colour choices, or even just feedbak in general of the overall site. I would also like to thank the people of code institute as I embark on this journey to become a developer.
