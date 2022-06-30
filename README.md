@@ -141,19 +141,22 @@ A single clip has been used to introduced and reperesent what is happening in th
 ### Current Design Features:
 - **Header** - appears on every page with clan logo
 - **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation 
-    - Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
+- Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
 
 - **Hero Image** - main image loads in with subtle animation to introduce the home page
-    - [Hero Image]('site-features/hero-image.jpg')
+- [Hero Image]('site-features/hero-image.jpg')
+
 
 - **Footer** - appears at the bottom of the bottom of every page, featuring social media icons (4), as links to keep the aesthetic clean and simple
-    - [Footer]('site-features/footer.jpg')
+- [Footer]('site-features/footer.jpg')
+
 
 - **Embeded Clip** - a clip relating to the content has been embeded to provide additional information on the current season of the game relating to the content
-    - [Embedded Clip]('site-features/clip.jpg')
+- [Embedded Clip]('site-features/clip.jpg')
+
 
 - **'Join Us' Form** - a form has been added to the join us page to allow the user to join the clan with as much clarity as possible
-    - [Form]('site-features/form.jpg')
+- [Form]('site-features/form.jpg')
 
 ### Future Features:
 Future design fetaures that could be incorporated:
@@ -223,10 +226,17 @@ The following project had been produced and developed using GitPod, which has th
 - CSS3
 
 ### Programs Used:
-- [GitPod](https://www.gitpod.io/) - used to write the code, commit and then push to GitHub
-- [GitHub](https://github.com/) - used to store the code/ project after being pushed from GitPod
-- [Balsamiq](https://balsamiq.com/wireframes/) - used to create Wireframes throughout the design process 
-- [Font Awesome](https://fontawesome.com/) - used for all the icons on each page (e.g social media icons for the footer)
-- [Google Fonts](https://fonts.google.com/) - used throughout the site for the font which has been imported into the style.css file
+- [GitPod]('https://www.gitpod.io/') - used to write the code, commit and then push to GitHub
+- [GitHub]('https://github.com/') - used to store the code/ project after being pushed from GitPod
+- [Balsamiq]('https://balsamiq.com/wireframes/') - used to create Wireframes throughout the design process 
+- [Font Awesome]('https://fontawesome.com/') - used for all the icons on each page (e.g social media icons for the footer)
+- [Google Fonts]('https://fonts.google.com/') - used throughout the site for the font which has been imported into the style.css file
+- [Colors Picker]('https://colors-picker.com/') - used to select hex colours for the color scheme
+- [Coolors]('https://coolors.co/') - used to build the colour palette used from hero image
+
 
 ## Credits & Acknowledgements
+
+- [W3Schools]('https://www.w3schools.com/')
+
+I would like to give a big thank you to my mentor, friends and family for their constant help and support throughout the course whether it be through design/ structure suggestions, colour choices, or even just feedbak in general of the overall site. I would also like to thank the people of code institute as I embark on this journey to become a developer.
