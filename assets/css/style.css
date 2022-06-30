@@ -39,6 +39,9 @@ h1, h2 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+}
+
+#menu a {
     color: #333333;
 }
 
