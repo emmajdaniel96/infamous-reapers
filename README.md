@@ -143,6 +143,9 @@ A single clip has been used to introduced and reperesent what is happening in th
 - **Navigation Bar** - appears at the top of every page along with the logo in the header to allow for easy navigation 
     - Both the Header and Navigation Bar are a fused feature on the site -[Header/ Nav Bar]('site-features/header.jpg')
 
+- **Hero Image** - main image loads in with subtle animation to introduce the home page
+    - [Hero Image]('site-features/hero-image.jpg')
+
 - **Footer** - appears at the bottom of the bottom of every page, featuring social media icons (4), as links to keep the aesthetic clean and simple
     - [Footer]('site-features/footer.jpg')
 
