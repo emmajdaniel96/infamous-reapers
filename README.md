@@ -134,6 +134,8 @@ The main font used for the site is [Kanit](https://fonts.google.com/?query=kanit
 The imagery used has been sorced from a selection of webites in relation to 'Destiny 2'. 
 A single clip has been used to introduced and reperesent what is happening in the current season. This is a clip embedded from YouTube.
 
+- [YouTube Clip Link]('https://www.youtube.com/watch?v=waX5YJgc8Kc')
+
 ## Features
 
 ### Current Design Features:
@@ -155,8 +157,9 @@ Future design fetaures that could be incorporated:
 - Attach sign up forms to the raid schedule
 - Create a page to help with sub class set up, to provide more giudance to new comers
 - Create a 'Thank you for joining page' for when the form is submitted to join the clan
+- Add interaction on Navigation bar to add to user experience
 
-The features above have not been implemented in the main release of the site due to lack of time to complete the page/ pages running up to submission.
+The features above have not been implemented in the main release of the site due to lack of time to complete the features/ pages running up to submission.
 
 
 ## Issues & Bugs
