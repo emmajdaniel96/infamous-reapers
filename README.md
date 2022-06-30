@@ -217,7 +217,12 @@ Device Testing:
 
 ## Deployment
 
-The following project had been produced and developed using GitPod, which has then been commited and pushed to GitHub.
+The following project had been produced and developed using GitPod, which has then been commited and pushed to GitHub. Find instruction below:
+
+### Deployment to GitHub Pages:
+- In GitGub repository, navigate to 'Settings' on the top horizontal bar
+- From the settings page, find the GitHub Pages section
+- 
 
 ## Technologies Used
 
