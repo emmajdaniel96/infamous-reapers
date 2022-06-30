@@ -223,8 +223,9 @@ The following project had been produced and developed using GitPod, which has th
 
 ### Deployment to GitHub Pages:
 - In GitGub repository, navigate to 'Settings' on the top horizontal bar
-- From the settings page, find the GitHub Pages section
-- 
+- From the 'Settings' page, find the 'GitHub Pages' section
+- Locate 'Source', then select None tab and change it to Master then click 'Save'.
+- When the page has loaded, scroll down to 'GitHub Pages' section again, and a maessage about site publication should come up. (This can take time to initially load.).
 
 ## Technologies Used
 
@@ -239,7 +240,7 @@ The following project had been produced and developed using GitPod, which has th
 - [Font Awesome](https://fontawesome.com/) - used for all the icons on each page (e.g social media icons for the footer)
 - [Google Fonts](https://fonts.google.com/) - used throughout the site for the font which has been imported into the style.css file
 - [Colors Picker](https://colors-picker.com/) - used to select hex colours for the color scheme
-- [Coolors]('https://coolors.co/') - used to build the colour palette used from hero image
+- [Coolors](https://coolors.co/) - used to build the colour palette used from hero image
 
 
 ## Credits & Acknowledgements
